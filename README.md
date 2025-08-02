@@ -23,6 +23,8 @@
 3. **Output:** TikZify returns valid LaTeX TikZ code  
 4. **Refinement:** User can add steps like “Add a Softmax layer after ReLU”
 
+_TikZify is currently deployed inside IBM Watsonx.ai Studio._
+
 ---
 
 ## 📋 Example Prompts
@@ -65,29 +67,37 @@
 
 ---
 
-## 🧪 Getting Started
-
-_TikZify is currently deployed inside IBM Watsonx.ai Studio._
-
-To build or customize:
-
-1. Log in to [IBM Cloud Lite](https://cloud.ibm.com)  
-2. Launch Watsonx.ai Studio  
-3. Create a new AI agent using **Granite-3.3-8B-Instruct**  
-4. Configure system prompt to limit the domain to TikZ diagram generation  
-5. Test in preview panel with sample prompts  
-6. Deploy using Streamlit, web widget, or a custom UI  
-
----
-
 ## 📷 Screenshots
 
-_(Insert images of input prompt, TikZ output code, and rendered PDF diagrams here)_
+### 🔹 Setting up..
+![Setup image](setup.png)
+
+### 🔹 Agent Configurations & Instructions...
+![Agent Instructions](configuration-instructions.png)
+
+### 🔹 Quick Start Questions...
+![quick_start_questions](suggested-prompts.png)
+
+### 🔹 Tools used & Testing...
+![Tool Used & Testing](tools-used.png)
+
+### 🔹 Deployment & Preview...
+![Preview](agent-start.png)
+![Deployment](deployment-and-preview.png)
+
+### 🔹 Prompts & Response
+![Response](prompt-response.png)
+![Off topic prompt response](off-topic-prompt.png)
+
+### 🔹 API References after Deployment...
+![api _references](api-endpoints.png)
+
+### 🔹 Resources List...
+![resourses_list.jpg](resource-list.png)
 
 ---
 
 ## 🙋 About the Author
 
-Created by **Shreya Patel**  
-AI & Cloud Intern — IBM SkillsBuild & Edunet Foundation  
+Created by **Shreya Patel** during internship in SkillsBuild & IBM Cloud Platform in Emerging Technologies (AI & Cloud) 
 For academic use and research enhancement in LaTeX authoring
