@@ -40,9 +40,8 @@ _TikZify is currently deployed inside IBM Watsonx.ai Studio._
 
 - IBM Watsonx.ai Studio  
 - IBM Granite-3.3-8B-Instruct (LLM)  
-- LaTeX + TikZ  
-- LangGraph (agent orchestration)  
-- Python (deployment & testing)  
+- ReAct Architecture
+- LangGraph
 - IBM Cloud Lite
 
 ---
