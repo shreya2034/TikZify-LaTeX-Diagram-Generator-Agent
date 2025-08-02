@@ -99,5 +99,6 @@ _TikZify is currently deployed inside IBM Watsonx.ai Studio._
 
 ## 🙋 About the Author
 
-Created by **Shreya Patel** during internship in SkillsBuild & IBM Cloud Platform in Emerging Technologies (AI & Cloud) 
+Created by **Shreya Patel** during internship in SkillsBuild & IBM Cloud Platform in Emerging Technologies (AI & Cloud)
+
 For academic use and research enhancement in LaTeX authoring
