@@ -27,10 +27,10 @@
 
 ## 📋 Example Prompts
 
-```Draw a flowchart: Load → Clean → Train → Evaluate```
-```Create a tree diagram with root 'Start' branching to A and B```
-```Make all nodes circular```
-```Add a label to the second block```
+- ```Draw a flowchart: Load → Clean → Train → Evaluate```
+- ```Create a tree diagram with root 'Start' branching to A and B```
+- ```Make all nodes circular```
+- ```Add a label to the second block```
 
 ---
 
