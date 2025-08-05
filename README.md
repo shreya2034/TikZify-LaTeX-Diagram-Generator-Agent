@@ -88,9 +88,6 @@ _TikZify is currently deployed inside IBM Watsonx.ai Studio._
 ![Response](prompt-response.png)
 ![Off topic prompt response](off-topic-prompt.png)
 
-### 🔹 API References after Deployment...
-![api _references](api-endpoints.png)
-
 ### 🔹 Resources List...
 ![resourses_list.jpg](resource-list.png)
 
